@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>News | If Wet...</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.ifwet.org.uk/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.ifwet.org.uk/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="If Wet... &raquo; Feed" href="http://www.ifwet.org.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="If Wet... &raquo; Comments Feed" href="http://www.ifwet.org.uk/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="If Wet... &raquo; News Category Feed" href="http://www.ifwet.org.uk/category/news/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.ifwet.org.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.12"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.ifwet.org.uk/wp-content/themes/twentytwelve/style.css?ver=4.7.12' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.ifwet.org.uk/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='https://api.w.org/' href='http://www.ifwet.org.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ifwet.org.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ifwet.org.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.12" />
+	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute !important;
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	</head>
+
+<body class="archive category category-news category-1 custom-font-enabled single-author">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="http://www.ifwet.org.uk/" title="If Wet&#8230;" rel="home">If Wet&#8230;</a></h1>
+			<h2 class="site-description">in the village hall</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="menu-main-menu-custom-container"><ul id="menu-main-menu-custom" class="nav-menu"><li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-65"><a href="http://www.ifwet.org.uk/">Welcome</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://www.ifwet.org.uk/what/">What</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.ifwet.org.uk/when/">When</a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="http://www.ifwet.org.uk/who/">Who</a></li>
+<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-112"><a href="http://www.ifwet.org.uk/latest/">|            LATEST</a></li>
+<li id="menu-item-806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-806"><a href="http://www.ifwet.org.uk/category/documentation/">PAST EVENTS</a></li>
+<li id="menu-item-1623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1623"><a target="_blank" href="http://radio.ifwet.org.uk">|            RADIO</a></li>
+<li id="menu-item-1570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1570"><a href="http://www.ifwet.org.uk/contact/">|           CONTACT</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+
+					<a href="http://www.ifwet.org.uk/"><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/header.gif" class="header-image" width="1211" height="412" alt="" /></a>
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<section id="primary" class="site-content">
+		<div id="content" role="main">
+
+					<header class="archive-header">
+				<h1 class="archive-title">Category Archives: <span>News</span></h1>
+
+						</header><!-- .archive-header -->
+
+			
+	<article id="post-1784" class="post-1784 post type-post status-publish format-standard hentry category-news tag-curation tag-design tag-event-programming tag-events tag-if-wet tag-mortonunderwood tag-music tag-musical-instrument-making tag-sonic-exploration tag-sound-art">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.ifwet.org.uk/news/we-are-back-if-wet-2017-in-the-planning/" title="Permalink to We are back! If Wet 2017 in the planning&#8230;" rel="bookmark">We are back! If Wet 2017 in the planning&#8230;</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.ifwet.org.uk/news/we-are-back-if-wet-2017-in-the-planning/#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>In 2015, after two full seasons of monthly events in our village hall, we delivered a mere three events throughout the year. They were events we are very proud (!) to put our name to but our regular monthly events were put on hold; due to the terminal illness of Sam&#8217;s father.</p>
+<p>This year we have been taking stock and have decided that 2017 will see the relaunching of <em>If Wet</em> as an event; it may even crop up in our village hall home again at some point. The main focus of <em>If Wet</em> during this next phase will be to provide our distinctive strand of programming as part of other festivals. We have done this successfully in the past for the following events / establishments:</p>
+<ul>
+<li>Flatpack Festival &#8211; <a href="http://www.ifwet.org.uk/news/if-wet-at-flatpack-preview/" target="_blank">preview</a></li>
+<li>Southbank Centre &#8211; <a href="http://www.ifwet.org.uk/news/if-wet-at-southbank-preview/" target="_blank">preview</a></li>
+<li>Supersonic Festival &#8211; <a href="http://www.ifwet.org.uk/documentation/if-wet-at-supersonic-documentation/" target="_blank">documentation</a></li>
+<li>Worcester Music Festival &#8211; <a href="http://www.ifwet.org.uk/documentation/if-wet-17-photo-documentation/" target="_blank">documentation</a></li>
+<li>Maker Faire &#8211; <a href="http://www.ifwet.org.uk/documentation/if-wet-21-documentation/" target="_blank">documentation</a></li>
+<li>Three Choirs Festival &#8211; <a href="http://www.ifwet.org.uk/documentation/if-wet-23-documentation/" target="_blank">documentation</a></li>
+</ul>
+<div style="height: 460px;">
+<!-- meta slider -->
+<div style="max-width: 614px;" class="metaslider metaslider-responsive metaslider-1788 ml-slider">
+    
+    <div id="metaslider_container_1788">
+        <ul id='metaslider_1788' class='rslides'>
+            <li><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/09/8-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-1444" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/06/jules.jpg" height="409" width="614" alt="" class="slider-1788 slide-1317" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/3choirs.jpg" height="409" width="614" alt="" class="slider-1788 slide-1804" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/05/rwyb-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-1195" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/10/10.jpg" height="409" width="614" alt="" class="slider-1788 slide-1476" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/stuart.jpg" height="409" width="614" alt="" class="slider-1788 slide-1809" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/12/12-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-1590" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2015/05/arabrot3.jpg" height="409" width="614" alt="" class="slider-1788 slide-1730" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2015/05/sarah-chats2.jpg" height="409" width="614" alt="" class="slider-1788 slide-1749" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2013/10/ifwet6-51-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-951" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/tim.jpg" height="409" width="614" alt="" class="slider-1788 slide-1810" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/nikki.jpg" height="409" width="614" alt="" class="slider-1788 slide-1807" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/09/9-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-1445" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/rwyb-alt.jpg" height="409" width="614" alt="" class="slider-1788 slide-1803" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/richard.jpg" height="409" width="614" alt="" class="slider-1788 slide-1808" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2015/05/dunning-smile.jpg" height="409" width="614" alt="" class="slider-1788 slide-1705" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2015/05/paul-tail-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-1710" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/farmer-alt.jpg" height="409" width="614" alt="" class="slider-1788 slide-1801" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/10/6.jpg" height="409" width="614" alt="" class="slider-1788 slide-1472" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/12/5-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-1583" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/11/pete3.jpg" height="409" width="614" alt="" class="slider-1788 slide-1517" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/06/hf-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-1316" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/03/sh-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-1114" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/kathy.jpg" height="409" width="614" alt="" class="slider-1788 slide-1805" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/12/9-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-1587" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/07/room.jpg" height="409" width="614" alt="" class="slider-1788 slide-1337" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2013/10/ifwet6-26-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-936" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2015/05/josephine-to-full-house.jpg" height="409" width="614" alt="" class="slider-1788 slide-1744" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/11/ben1.jpg" height="409" width="614" alt="" class="slider-1788 slide-1511" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/kenchington-alt.jpg" height="409" width="614" alt="" class="slider-1788 slide-1802" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/07/paddy2.jpg" height="409" width="614" alt="" class="slider-1788 slide-1336" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/09/3-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-1439" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/08/6.jpg" height="409" width="614" alt="" class="slider-1788 slide-1391" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2013/05/pj-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-214" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/laura.jpg" height="409" width="614" alt="" class="slider-1788 slide-1806" /></li>
+            <li style='display: none;'><img src="http://www.ifwet.org.uk/wp-content/uploads/2015/05/doran-takes-questions-614x409.jpg" height="409" width="614" alt="" class="slider-1788 slide-1738" /></li>
+        </ul>
+        
+    </div>
+    <script type="text/javascript">
+        var metaslider_1788 = function($) {
+            $('#metaslider_1788').responsiveSlides({ 
+                timeout:3000,
+                pager:false,
+                nav:false,
+                pause:true,
+                speed:600,
+                prevText:"&lt;",
+                nextText:"&gt;",
+                auto:true
+            });
+        };
+        var timer_metaslider_1788 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_1788, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_1788, 1) : metaslider_1788(window.jQuery);
+        };
+        timer_metaslider_1788();
+    </script>
+</div>
+<!--// meta slider-->
+</div>
+<p>We have some festivals in mind and we will be getting in touch with them soon. We also welcome your input! If you have ideas for possible themes / host festivals / interesting artists etc&#8230;we are keen to know. Please send us your thoughts to: <a href="mailto:hello@ifwet.org.uk">hello@ifwet.org.uk</a></p>
+<p><em><strong>We look forward to seeing you at an If Wet in 2017!</strong></em></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.ifwet.org.uk/category/news/" rel="category tag">News</a> and tagged <a href="http://www.ifwet.org.uk/tag/curation/" rel="tag">curation</a>, <a href="http://www.ifwet.org.uk/tag/design/" rel="tag">design</a>, <a href="http://www.ifwet.org.uk/tag/event-programming/" rel="tag">event programming</a>, <a href="http://www.ifwet.org.uk/tag/events/" rel="tag">events</a>, <a href="http://www.ifwet.org.uk/tag/if-wet/" rel="tag">if wet</a>, <a href="http://www.ifwet.org.uk/tag/mortonunderwood/" rel="tag">MortonUnderwood</a>, <a href="http://www.ifwet.org.uk/tag/music/" rel="tag">music</a>, <a href="http://www.ifwet.org.uk/tag/musical-instrument-making/" rel="tag">musical instrument making</a>, <a href="http://www.ifwet.org.uk/tag/sonic-exploration/" rel="tag">sonic exploration</a>, <a href="http://www.ifwet.org.uk/tag/sound-art/" rel="tag">sound art</a> on <a href="http://www.ifwet.org.uk/news/we-are-back-if-wet-2017-in-the-planning/" title="3:30 pm" rel="bookmark"><time class="entry-date" datetime="2016-10-06T15:30:31+00:00">October 6, 2016</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.ifwet.org.uk/author/mortonunderwood/" title="View all posts by MortonUnderwood" rel="author">MortonUnderwood</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1659" class="post-1659 post type-post status-publish format-standard hentry category-news tag-discussion tag-if-wet tag-instruments tag-john-doran tag-josephine-dickinson tag-live tag-mortonunderwood tag-preview tag-rwyb tag-sarah-angliss tag-sound-art tag-the-quietus">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.ifwet.org.uk/news/if-wet-22-preview/" title="Permalink to If Wet #22 &#8211; Preview" rel="bookmark">If Wet #22 &#8211; Preview</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.ifwet.org.uk/news/if-wet-22-preview/#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>If Wet #22 takes place on <strong>Sunday 10th May, 2-4pm</strong> in <a href="http://www.callowendvillagehall.co.uk/" title="Callow End Village Hall - website" target="_blank">Callow End Village Hall</a>!<br />
+JOIN US.</p>
+<p>We are delighted to be part of <a href="http://www.johndoran.co.uk/" title="John Doran - website" target="_blank">John Doran&#8217;s</a> (<a href="http://thequietus.com/" title="The Quietus - website" target="_blank">The Quietus</a>) tour, presenting his new book <em>Jolly Lad</em>; to an ambient musical accompaniment from <a href="http://www.arabrot.com/imodi/" title="Arabrot - website" target="_blank">Arabrot</a>. We also have the wonderful <a href="http://www.sarahangliss.com/" title="Sarah Angliss - website" target="_blank">Sarah Angliss</a> paying us a visit again and we are thrilled to welcome the poet <a href="http://www.josephinedickinson.com/index.html" title="Josephine Dickinson - website" target="_blank">Josephine Dickinson</a> to Callow End.</p>
+<p><em>Due to heightened demand, and our limited village hall capacity, we are pre-selling tickets for this event. Here is the <a href="https://www.eventbrite.co.uk/e/if-wet-22-josephine-dickinson-sarah-angliss-john-doran-arabrot-tickets-16366359221" target="_blank">ticket booking page</a>.</em><br />
+______________________________________________________________________</p>
+<p>Our first If Wet this year in our home of Callow End Village Hall represents a bit of a departure from our usual events. Last year, John Doran of The Quietus got in touch to ask whether we would host an event as part of his tour to celebrate the launch of his book. We weren&#8217;t entirely sure how this fitted with If Wet but John and The Quietus have shown us a lot of support over the last couple of years, and we always relish an opportunity to play with the If Wet format; such as If Wet as <a href="http://radio.ifwet.org.uk" title="If Wet Radio - website" target="_blank">radio show</a>.</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2015/03/book-cover.jpg" alt="Jolly Lad - book cover" width="614" height="873" /></p>
+<p>When we heard more about <a href="http://thequietus.com/articles/17461-john-doran-jolly-lad-strange-attractor-menk" target="_blank">the tour and John&#8217;s book</a>, it became clear what sort of artists we might invite to this event, to accompany the reading and performance John and Arabrot would deliver. We decided on a sonic storytelling thread, and Josephine Dickinson and Sarah Angliss seemed immediately appropriate.</p>
+<p>As your hosts we will kick the event off, as usual. Then it will be over to Josephine to provide us with an insight into her work and background. </p>
+<p>Josephine has something of a unique story. She has known normal hearing, sudden profound deafness, sudden total deafness, extreme aural hallucinations and, most recently, the experience of sound with a cochlear implant. A poet, composer and artist, she studied with Michael Finnissy and Richard Barrett in London, then moved to remote Cumbria, where she lives on a tiny hill farm. Josephine will share her story and explore its implications and possibilities for her practice. She will be open to the insights and ideas of the audience. <em>&#8220;It is an ongoing and exciting journey that has only just begun.&#8221;</em></p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2015/03/dickinson.jpg" alt="Josephine Dickinson" width="614" height="461" /></p>
+<div class="imageTitle">Photo: Alan O&#8217;Duffy</div>
+<p>Next up, we have Sarah Angliss in our hall for the second time, to provide some of her captivating folk tales and music provided by her and her robotic friends.</p>
+<p>Sarah is an award winning composer, roboticist and historian of sound whose music reflects her fascination with European folklore and long-forgotten machines. Sarah is known for her singularly embodied performance which mixes theremin, saw and ancient instruments with live electronics, with the ensemble of musical automata she&#8217;s designed and built to work with her on stage.</p>
+<p>Her If Wet presentation will feature new songs from <em>Ealing Feeder</em>, her forthcoming solo album, inspired by London folklore.</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2015/03/sarah.jpg" alt="Sarah Angliss" width="614" height="604" /></p>
+<p>Lastly, we will have John Doran, performing a reading from his book <em>Jolly Lad</em>; accompanied by Arabrot.</p>
+<p><em>Jolly Lad</em> is a memoir about the recovery from alcoholism, habitual drug use and mental illness. It is also about the healing power of music, how memory defines us, the redemption offered by fatherhood and what it means to be working class.</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2015/03/doran.jpg" alt="John Doran" width="614" height="354" /></p>
+<p>____________</p>
+<p>This will definitely be distinct from our usual If Wet events. There will be more emphasis on performances and less on discussion but we certainly hope to maintain the If Wet flavour in various ways. Firstly, either side of the performances we hope to encourage questions from our audience; the usual generous and open exchanges. Secondly, our village hall setting &#8211; coupled with village ale, home-made grub and cake &#8211; will provide the usual atmosphere.</p>
+<p><em>As this is a one-off special event, we have decided to pre-sell tickets at the princely sum of £6 each. These may sell fast, who knows, but please consider buying your tickets now so you are not disappointed. Here is the <a href="https://www.eventbrite.co.uk/e/if-wet-22-josephine-dickinson-sarah-angliss-john-doran-arabrot-tickets-16366359221" target="_blank">tickets page</a>.</em> JOIN US.</p>
+<p><strong>Please note: this event may overrun if discussions take flight.</strong></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.ifwet.org.uk/category/news/" rel="category tag">News</a> and tagged <a href="http://www.ifwet.org.uk/tag/discussion/" rel="tag">discussion</a>, <a href="http://www.ifwet.org.uk/tag/if-wet/" rel="tag">if wet</a>, <a href="http://www.ifwet.org.uk/tag/instruments/" rel="tag">instruments</a>, <a href="http://www.ifwet.org.uk/tag/john-doran/" rel="tag">John Doran</a>, <a href="http://www.ifwet.org.uk/tag/josephine-dickinson/" rel="tag">Josephine Dickinson</a>, <a href="http://www.ifwet.org.uk/tag/live/" rel="tag">live</a>, <a href="http://www.ifwet.org.uk/tag/mortonunderwood/" rel="tag">MortonUnderwood</a>, <a href="http://www.ifwet.org.uk/tag/preview/" rel="tag">Preview</a>, <a href="http://www.ifwet.org.uk/tag/rwyb/" rel="tag">rwyb</a>, <a href="http://www.ifwet.org.uk/tag/sarah-angliss/" rel="tag">Sarah Angliss</a>, <a href="http://www.ifwet.org.uk/tag/sound-art/" rel="tag">sound art</a>, <a href="http://www.ifwet.org.uk/tag/the-quietus/" rel="tag">The Quietus</a> on <a href="http://www.ifwet.org.uk/news/if-wet-22-preview/" title="11:14 am" rel="bookmark"><time class="entry-date" datetime="2015-03-30T11:14:52+00:00">March 30, 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.ifwet.org.uk/author/mortonunderwood/" title="View all posts by MortonUnderwood" rel="author">MortonUnderwood</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1642" class="post-1642 post type-post status-publish format-standard hentry category-news tag-discussion tag-graham-dunning tag-if-wet tag-instruments tag-live tag-mortonunderwood tag-paul-granjon tag-preview tag-rwyb tag-sound-art">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.ifwet.org.uk/news/if-wet-21-preview/" title="Permalink to If Wet #21 &#8211; Preview" rel="bookmark">If Wet #21 &#8211; Preview</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.ifwet.org.uk/news/if-wet-21-preview/#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>If Wet #21 is our first of 2015 and takes place across the weekend of the <strong>25th and 26th of April</strong> as part of  <a href="http://www.makerfaireuk.com/" title="Maker Faire website - website" target="_blank">Maker Faire</a>!<br />
+JOIN US.</p>
+<p>We are delighted to be part of Maker Faire this year, where we will host an If Wet strand on one of the stages. We have invited <a href="http://grahamdunning.com/" title="Graham Dunning - website" target="_blank">Graham Dunning</a> to present his work on the Saturday and <a href="http://www.zprod.org/zwp/" title="Paul Granjon - website" target="_blank">Paul Granjon</a> will be showing his on the Sunday; each giving performances later in the day.</p>
+<p>______________________________________________________________________</p>
+<p>For our first If Wet event of 2015 we will be heading to Newcastle for Maker Faire.</p>
+<p>As your hosts we will kick the event off, as usual. We will set the tone each day and present our latest piece of work. It will soon be over to our invited artists though to discuss their work and working methods.</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/06/dunning.jpg" alt="Graham Dunning" width="614" height="491" /></p>
+<p>On the Saturday, we have Graham Dunning presenting his ingenious Mechanical Techno system, which he uses to create wonky techno, through a series of stacked platters, tonearms and contact mic drum / synth triggers. In his words:</p>
+<p>&#8220;Mechanical Techno: Ghost in the Machine music &#8211; vinyl dissonance for lost memories. A live dubbed rhythmical collage made of squeezed record crackle, analogue synthesizer, dubplates of field recordings, dusty shellac records and clumsily triggered drum machines.&#8221;</p>
+<p>During our first session of the day Graham will discuss this system and his approach. Later in the day you will get chance to come back to the stage to hear him perform a Mechanical Techno set.</p>
+<p><iframe width="625" height="352" src="https://www.youtube.com/embed/sXlOZeU-ZqA?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>On the Sunday, Paul Granjon will present his work as an electronic artist interested in the co-evolution of humans and machines, a subject he explores with hand-made robots and other machines.</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2015/03/PG_robot_and_kid2.jpg" alt="Paul Granjon - robot and kid" width="614" height="614"/></p>
+<p>Paul has exhibited his machines worldwide, for example representing Wales at the Venice Biennale 2005 with a couple of Sexed Robots. More recently he&#8217;s been turning art galleries into factories where people are invited to dismantle obsolete consumer electronic items and turn them into interesting stuff, or just have fun taking them apart. Paul is currently working on Coy-B, an intelligent biting machine and on Guido, a robot guide for an art and technology exhibition.</p>
+<p><iframe width="625" height="469" src="https://www.youtube.com/embed/j9Pzk-TyMSQ?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>We are delighted to invite Paul and Graham to present their work at Maker Faire and that we will all get to see them perform too! We look forward to seeing you in Newcastle.<br />
+JOIN US.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.ifwet.org.uk/category/news/" rel="category tag">News</a> and tagged <a href="http://www.ifwet.org.uk/tag/discussion/" rel="tag">discussion</a>, <a href="http://www.ifwet.org.uk/tag/graham-dunning/" rel="tag">Graham Dunning</a>, <a href="http://www.ifwet.org.uk/tag/if-wet/" rel="tag">if wet</a>, <a href="http://www.ifwet.org.uk/tag/instruments/" rel="tag">instruments</a>, <a href="http://www.ifwet.org.uk/tag/live/" rel="tag">live</a>, <a href="http://www.ifwet.org.uk/tag/mortonunderwood/" rel="tag">MortonUnderwood</a>, <a href="http://www.ifwet.org.uk/tag/paul-granjon/" rel="tag">Paul Granjon</a>, <a href="http://www.ifwet.org.uk/tag/preview/" rel="tag">Preview</a>, <a href="http://www.ifwet.org.uk/tag/rwyb/" rel="tag">rwyb</a>, <a href="http://www.ifwet.org.uk/tag/sound-art/" rel="tag">sound art</a> on <a href="http://www.ifwet.org.uk/news/if-wet-21-preview/" title="9:42 am" rel="bookmark"><time class="entry-date" datetime="2015-03-29T09:42:35+00:00">March 29, 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.ifwet.org.uk/author/mortonunderwood/" title="View all posts by MortonUnderwood" rel="author">MortonUnderwood</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1626" class="post-1626 post type-post status-publish format-standard hentry category-news tag-arabrot tag-callow-end-village-hall tag-if-wet tag-john-doran tag-maker-faire tag-mortonunderwood tag-news tag-radio-show tag-revised-plans tag-three-choirs tag-worcester-music-festival">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.ifwet.org.uk/news/if-wet-in-2015-revised-plans/" title="Permalink to If Wet in 2015 – revised plans" rel="bookmark">If Wet in 2015 – revised plans</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.ifwet.org.uk/news/if-wet-in-2015-revised-plans/#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/07/room.jpg" alt="room" width="614" height="409" /></p>
+<p>We are firm in the belief that any decision we make regarding our projects is open to review at a later date, and when we came to assess our plans for our third season of monthly If Wet events in the village hall we decided we would put these on ice; and save our Kickstarter cherry for another day. There are various reasons for this decision but central to it is the fact that doing a regular event each month is really time-consuming and energy-sapping. If Wet was intended to drive our own making, for demonstration at the events, but the regular monthly events actually stifled our own building of stuff in 2014; so for now we have put them on hold.</p>
+<p>This doesn&#8217;t mean an end to If Wet events in 2015. In fact, we have a few really exciting events lined up already and we are looking for more. Here are some dates for your diaries:</p>
+<p><strong style="font-size: 110%;">If Wet at Maker Faire</strong><br />
+<em>Saturday 25th – Sunday 26th April</em><br />
+A series of If Wet demonstrations and performances over the two days of the festival, taking place at the Centre for Life, Newcastle upon Tyne.</p>
+<p><strong style="font-size: 110%;">If Wet hosts John Doran</strong><br />
+<em>Sunday 10th May</em><br />
+An all-day special event in our home venue of Callow End Village Hall. Including an If Wet salon, followed by an event featuring Arabrot performing an ambient set featuring John Doran reading from his new book <em>Jolly Lad</em>, due out early May on Strange Attractor Press. Yes, this is happening in Callow End!</p>
+<p><strong style="font-size: 110%;">If Wet at Three Choirs+</strong><br />
+<em>Thursday 30th July</em><br />
+A one-off If Wet event on the Theremin as part of the Three Choirs+ programme in Hereford. Further details soon.</p>
+<p><strong style="font-size: 110%;">If Wet at Worcester Music Festival</strong><br />
+<em>Sunday 20th September</em><br />
+Plans are afoot for If Wet to revisit Worcester Music Festival (and hopefully the glorious Quaker Friends Meeting House) for the second year running.</p>
+<p>There are a couple more events in the offing and we welcome anyone <a href="mailto: hello@ifwet.org.uk">getting in touch</a> if you&#8217;d like to discuss us programming and hosting an If Wet as part of your event, wherever you are in the world!</p>
+<p>We also started a regular monthly radio programme on <a href="http://www.soundartradio.org.uk/" target="_blank">Sound Art Radio</a> in December 2014, which is broadcast on the last Sunday of the month from 2-4pm; each programme featuring a different musical instrument. More information on that here: <a href="http://radio.ifwet.org.uk" target="_blank">radio.ifwet.org.uk</a></p>
+<p>We welcome any suggestions for the radio show and we look forward to seeing you at an If Wet in 2015!</p>
+<p>JOIN US.</p>
+<p>Sam and David.</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/12/1.jpg" alt="1" width="614" height="433" /></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.ifwet.org.uk/category/news/" rel="category tag">News</a> and tagged <a href="http://www.ifwet.org.uk/tag/arabrot/" rel="tag">Arabrot</a>, <a href="http://www.ifwet.org.uk/tag/callow-end-village-hall/" rel="tag">Callow End Village Hall</a>, <a href="http://www.ifwet.org.uk/tag/if-wet/" rel="tag">if wet</a>, <a href="http://www.ifwet.org.uk/tag/john-doran/" rel="tag">John Doran</a>, <a href="http://www.ifwet.org.uk/tag/maker-faire/" rel="tag">Maker Faire</a>, <a href="http://www.ifwet.org.uk/tag/mortonunderwood/" rel="tag">MortonUnderwood</a>, <a href="http://www.ifwet.org.uk/tag/news/" rel="tag">news</a>, <a href="http://www.ifwet.org.uk/tag/radio-show/" rel="tag">Radio show</a>, <a href="http://www.ifwet.org.uk/tag/revised-plans/" rel="tag">revised plans</a>, <a href="http://www.ifwet.org.uk/tag/three-choirs/" rel="tag">Three Choirs</a>, <a href="http://www.ifwet.org.uk/tag/worcester-music-festival/" rel="tag">Worcester Music Festival</a> on <a href="http://www.ifwet.org.uk/news/if-wet-in-2015-revised-plans/" title="3:17 pm" rel="bookmark"><time class="entry-date" datetime="2015-02-10T15:17:39+00:00">February 10, 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.ifwet.org.uk/author/mortonunderwood/" title="View all posts by MortonUnderwood" rel="author">MortonUnderwood</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1555" class="post-1555 post type-post status-publish format-standard hentry category-news tag-celebration tag-discussion tag-if-wet tag-instruments tag-kickstarter tag-live tag-mortonunderwood tag-preview tag-pub tag-rosanne-robertson tag-rwyb tag-sound-art">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.ifwet.org.uk/news/if-wet-20-preview/" title="Permalink to If Wet #20 &#8211; Preview" rel="bookmark">If Wet #20 &#8211; Preview</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.ifwet.org.uk/news/if-wet-20-preview/#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>If Wet #20 &#8211; our last in 2014 &#8211; is just over a week away. <strong>Sunday 30th November, 2-4pm</strong>!<br />
+JOIN US.</p>
+<p>We are delighted to have <a href="http://rosannerobertson.com/" target="_blank">Rosanne Robertson</a> presenting her work.</p>
+<p>______________________________________________________________________</p>
+<p>As our final If Wet of the season &#8211; and the last before we hand things over to the Kickstarter Gods &#8211; we plan to run things a little differently from normal; and have a bit of a celebration. There will be no presentation of work from us, we&#8217;ll start with a presentation from our guest artist Rosanne Robertson. </p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/11/rosanne-rooftop2.jpg" alt="Rosanne Robertson" width="614" height="345" /></p>
+<p>Rosanne is an artist based in the North of England working with vibrations, objects and the body.</p>
+<p>Since graduating from Fine Art at Manchester School of Art in 2009 Robertson has exhibited and performed at places such as The Bluecoat Gallery (Liverpool), Silent Barn (New York) and Roodkapje (Rotterdam). Recent projects include sound art commissions for Museum of Science and Industry and John Rylands Library at Asia Triennial Manchester 14 for sound art series Call and Response by Centre for Chinese Contemporary Art and also a mini residency and state side edition of Noise Above Noise for Exchange Rates Bushwick in Brooklyn. And now she is coming to our village hall in Callow End!</p>
+<p>It&#8217;s always nice to welcome artists to If Wet that also run artist-led spaces / events and <a href="http://thepenthousenq.com/" target="_blank">The Penthouse</a> in Manchester and her event NOISE ABOVE NOISE are just that. </p>
+<p>For If Wet she will deliver a performative presentation created for the occasion, entitled Objectum Sexuality &#8211; usually a term used to describe people who develop emotional connections and loving relationships with inanimate objects &#8211; Robertson will borrow the term to demonstrate her methods, recent collections, sound makers, arrangements and her connections to them. The presentation will be semi improvised in-keeping with her live practice and will involve various art works, texts, visuals, pre recorded and live sound to create an overall live impression of her work. </p>
+<p>This is what Dazed and Confused said about Rosanne: &#8220;For me Rosanne&#8217;s very much a &#8216;doodlebug&#8217;, that is to say, a provocateur who tirelessly works across all  platforms, creating work by any medium necessary and who works beneath the skin&#8221;</p>
+<p>____________</p>
+<p>Following on from Rosanne&#8217;s presentation we will have a bit of a review and celebration of our second season. This will be relatively low-key; a chance to relax with you all before we head to <a href="http://www.tripadvisor.co.uk/Restaurant_Review-g186424-d3387271-Reviews-Blue_Bell-Worcester_Worcestershire_England.html" title="Blue Bell" target="_blank">the local pub</a> afterwards to continue celebrations. We won&#8217;t get to the pub until after they stop serving food but they offer a 10% discount to anyone attending If Wet if you want to eat beforehand&#8230;BUT &#8211; as ever &#8211; there will be plenty of lovely food at If Wet itself; so we can get properly fed before we get watered.</p>
+<p>Lastly, as usual we&#8217;d welcome short, informal presentations in our Run What Ya Brung section. Just bring any sonic oddity along and you can present it to the audience for their wonderment. We hope we might coax a couple of regular contributors to bring something along, to present at our final event before we roll the Kickstarter dice.</p>
+<p>Oh and this is all accompanied by the usual local ale, home-made grub and cake. JOIN US.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.ifwet.org.uk/category/news/" rel="category tag">News</a> and tagged <a href="http://www.ifwet.org.uk/tag/celebration/" rel="tag">Celebration</a>, <a href="http://www.ifwet.org.uk/tag/discussion/" rel="tag">discussion</a>, <a href="http://www.ifwet.org.uk/tag/if-wet/" rel="tag">if wet</a>, <a href="http://www.ifwet.org.uk/tag/instruments/" rel="tag">instruments</a>, <a href="http://www.ifwet.org.uk/tag/kickstarter/" rel="tag">kickstarter</a>, <a href="http://www.ifwet.org.uk/tag/live/" rel="tag">live</a>, <a href="http://www.ifwet.org.uk/tag/mortonunderwood/" rel="tag">MortonUnderwood</a>, <a href="http://www.ifwet.org.uk/tag/preview/" rel="tag">Preview</a>, <a href="http://www.ifwet.org.uk/tag/pub/" rel="tag">pub</a>, <a href="http://www.ifwet.org.uk/tag/rosanne-robertson/" rel="tag">Rosanne Robertson</a>, <a href="http://www.ifwet.org.uk/tag/rwyb/" rel="tag">rwyb</a>, <a href="http://www.ifwet.org.uk/tag/sound-art/" rel="tag">sound art</a> on <a href="http://www.ifwet.org.uk/news/if-wet-20-preview/" title="1:30 pm" rel="bookmark"><time class="entry-date" datetime="2014-11-20T13:30:23+00:00">November 20, 2014</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.ifwet.org.uk/author/mortonunderwood/" title="View all posts by MortonUnderwood" rel="author">MortonUnderwood</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1537" class="post-1537 post type-post status-publish format-standard hentry category-news tag-comments tag-monthly tag-mortonunderwood tag-rd tag-radio-show tag-sound-art-radio tag-thoughts tag-tuba">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.ifwet.org.uk/news/monthly-radio-show/" title="Permalink to Monthly radio show &#8211; please help!" rel="bookmark">Monthly radio show &#8211; please help!</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.ifwet.org.uk/news/monthly-radio-show/#comments">1 Reply</a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>As outlined in <a href="http://www.ifwet.org.uk/news/if-wet-the-future/" target="_blank">our future plans</a>, we are starting a regular monthly radio programme, to fall &#8211; as If Wet does &#8211; on the last Sunday of the month, from 2-4pm; during our off-season.</p>
+<p>At present we are thinking we will &#8220;broadcast&#8221; via Mixcloud (embedded on our site) and we are also finalising plans with <a href="http://www.soundartradio.org.uk/" title="Soundart Radio" target="_blank">Soundart Radio</a> to include our show in their schedule.</p>
+<p>For now, the shows will be pre-recorded but we plan to always make them live in a given timeslot and then be on-hand via <a href="https://twitter.com/If_Wet" target="_blank">Twitter </a> for any interaction and feedback. Our first show will provide some holiday listening for most, as it will be aired at 2pm on December the 28th.</p>
+<p>Each show will focus on a different musical instrument and is intended to drive our research and development as instrument makers, as well as hopefully being entertaining! It&#8217;s not intended to be comprehensive; more a snapshot of what we have unearthed to date.</p>
+<p><strong style="font-size: 120%;">Please help!</strong><br />
+We need your help, on two fronts:</p>
+<ol>
+<li>We have never run a radio show before so please let us know anything you know about that. Anything goes at this stage; from suggestions that our approach is all wrong, through to personal reflections about what you like as a listener</li>
+<li>Links and suggestions for our first show, which will focus on the <strong>tuba</strong>. Please just add information on anything or anyone you think is exciting in the world of the tuba, via the comments. We are open to all sorts: from contacting players for input, to talking about technical aspects, to playing banging brass band party tunes. We&#8217;d rather you popped it in the comments and we didn&#8217;t end up featuring it than missing something great that&#8217;s out there&#8230;</li>
+</ol>
+<p>SO, please help us by popping your comments below. We look forward to reading them!</p>
+<p><strong>Thank you.</strong></p>
+<p><span style="font-size: 80%;">[Oh and we have some ideas for what instruments to feature next but we welcome yours]</span></p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/11/tubaman.jpg" alt="PARP" width="614" height="921" /></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.ifwet.org.uk/category/news/" rel="category tag">News</a> and tagged <a href="http://www.ifwet.org.uk/tag/comments/" rel="tag">comments</a>, <a href="http://www.ifwet.org.uk/tag/monthly/" rel="tag">monthly</a>, <a href="http://www.ifwet.org.uk/tag/mortonunderwood/" rel="tag">MortonUnderwood</a>, <a href="http://www.ifwet.org.uk/tag/rd/" rel="tag">R&amp;D</a>, <a href="http://www.ifwet.org.uk/tag/radio-show/" rel="tag">Radio show</a>, <a href="http://www.ifwet.org.uk/tag/sound-art-radio/" rel="tag">Sound Art Radio</a>, <a href="http://www.ifwet.org.uk/tag/thoughts/" rel="tag">thoughts</a>, <a href="http://www.ifwet.org.uk/tag/tuba/" rel="tag">tuba</a> on <a href="http://www.ifwet.org.uk/news/monthly-radio-show/" title="12:40 pm" rel="bookmark"><time class="entry-date" datetime="2014-11-14T12:40:14+00:00">November 14, 2014</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.ifwet.org.uk/author/mortonunderwood/" title="View all posts by MortonUnderwood" rel="author">MortonUnderwood</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1504" class="post-1504 post type-post status-publish format-standard hentry category-news tag-callow-end tag-if-wet tag-if-wet-20 tag-kickstarter tag-outings tag-plans tag-radio tag-season-3 tag-sonic-exploration">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.ifwet.org.uk/news/if-wet-the-future/" title="Permalink to If Wet &#8211; the future&#8230;" rel="bookmark">If Wet &#8211; the future&#8230;</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.ifwet.org.uk/news/if-wet-the-future/#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/11/davidandsam.jpg" alt="David and Sam" width="614" height="409" /><br />
+&nbsp;<br />
+We are nearly at the end of Season #2 of If Wet and we wanted to let you know our plans, as they stand.</p>
+<p>In the short term we have one final event; our 20th! We are very much looking forward to welcoming <a href="http://rosannerobertson.com/" target="_blank">Rosanne Robertson</a> to the hall on Sunday the 30th of November. Last year our final event was a much extended affair with many performances and the like. This year the loose plan is a standard If Wet, with a bit more emphasis on performance than usual, and then off to the pub! We will add more details about this event when we put up a preview in due course.</p>
+<p>The other thing our last event in 2013 served as was a fundraiser. It was a great success and &#8211; topped up by entry fees and sales of grub and tat &#8211; it has paid our visiting artists throughout this season. We are very grateful to all that came and for all the wonderful donations we had as raffle prizes and Ebay items etc. The reason we are not doing the same this year is that it was also extremely hard work and pretty inefficient. We managed to raise £1200, for which we are very grateful, but with that effort and goodwill you&#8217;d ideally hope to raise much more. We will miss the end of year celebration, which will only be partly substituted by going to the pub afterwards&#8230;but don&#8217;t hesitate to take Monday off and have a really good bash with us!</p>
+<p><strong style="font-size: 130%;">Season #3</strong><br />
+We would like to carry on doing If Wet. This season has taught us a lot and we have resolved to do a six month (ish) season of events next year; in our village hall. We found touring village halls hard to justify from the point of view of audience numbers, because we just didn&#8217;t have the people on the ground to promote stuff sufficiently. Festival appearances might still happen if people will have us but the core would be our events in our hall.</p>
+<p>We would like to grow If Wet a little in 2015. This year there were a couple of notable artists whom we couldn&#8217;t invite, or couldn&#8217;t ship their stuff up, because we didn&#8217;t have the funds. There will always be limits to this but we would like to kick this up a notch next year in an effort to keep bringing amazing people to Callow End. Also, our cushty deal with the people who run the village hall will end next year and we would like to pay everyone else involved &#8211; caterers, photographers, designers, us &#038;c &#8211; some money on a monthly basis. We also need to continue to promote things so audience levels don&#8217;t drop.</p>
+<p>We will work out what sort of sum this adds to and then we will be turning to Kickstarter. This hasn&#8217;t been an easy decision for us but the balance of possible funding to workload will hopefully be somewhat less arduous than last year. We have specifically chosen Kickstarter over other options because our plans to develop If Wet during next season are central to what we want it to be. If this doesn&#8217;t reach the funding target it wont be possible to run If Wet as we would hope and so we will stop. More on all of this soon.</p>
+<p>________________</p>
+<p>Also&#8230;</p>
+<p>We are planning a monthly radio show, to run during the If Wet off-season. The idea is that we will focus on a different musical instrument each month. This isn&#8217;t intended to be comprehensive or high-brow but to provide an opportunity for us to drive our R&#038;D along and to play some music we like. Like any If Wet these will be &#8220;broadcast&#8221; on the last Sunday of the month; starting on the 28th of December, from 2pm. Our first show will focus on the tuba, naturally.</p>
+<p>We also really enjoyed organising a trip to <a href="http://foghornrequiem.org/" target="_blank">Foghorn Requiem</a> last year. We saw it as an If Wet Outing. When people who attended <a href="http://www.ifwet.org.uk/documentation/if-wet-18-photo-documentation/" target="_blank">Sarah Nicoll&#8217;s If Wet</a> suggested we might organise another outing to see her <a href="http://brightondome.org/event/6419/moments_of_weightlessness/" target="_blank">perform</a> in December we thought that was a lovely idea. Being mid-week and many hundreds of miles away may prohibit us going to Sarah&#8217;s performance but we will certainly be looking at organising more outings; where possible to see work performed by artists who have presented at If Wet.</p>
+<p>Lastly, thanks to everyone for their support throughout this season. It has been truly heart-warming. We hope to see you at our last event of 2014, on the 30th of November, for Rosanne Robertson and pub! JOIN US.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.ifwet.org.uk/category/news/" rel="category tag">News</a> and tagged <a href="http://www.ifwet.org.uk/tag/callow-end/" rel="tag">callow end</a>, <a href="http://www.ifwet.org.uk/tag/if-wet/" rel="tag">if wet</a>, <a href="http://www.ifwet.org.uk/tag/if-wet-20/" rel="tag">if wet #20</a>, <a href="http://www.ifwet.org.uk/tag/kickstarter/" rel="tag">kickstarter</a>, <a href="http://www.ifwet.org.uk/tag/outings/" rel="tag">outings</a>, <a href="http://www.ifwet.org.uk/tag/plans/" rel="tag">plans</a>, <a href="http://www.ifwet.org.uk/tag/radio/" rel="tag">radio</a>, <a href="http://www.ifwet.org.uk/tag/season-3/" rel="tag">Season #3</a>, <a href="http://www.ifwet.org.uk/tag/sonic-exploration/" rel="tag">sonic exploration</a> on <a href="http://www.ifwet.org.uk/news/if-wet-the-future/" title="11:38 am" rel="bookmark"><time class="entry-date" datetime="2014-11-06T11:38:32+00:00">November 6, 2014</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.ifwet.org.uk/author/mortonunderwood/" title="View all posts by MortonUnderwood" rel="author">MortonUnderwood</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1488" class="post-1488 post type-post status-publish format-standard hentry category-news tag-ben-gwilliam tag-discussion tag-if-wet tag-instruments tag-live tag-mortonunderwood tag-pete-ashton tag-preview tag-rwyb tag-sound-art">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.ifwet.org.uk/news/if-wet-19-preview/" title="Permalink to If Wet #19 &#8211; Preview" rel="bookmark">If Wet #19 &#8211; Preview</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.ifwet.org.uk/news/if-wet-19-preview/#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>If Wet #19 &#8211; our penultimate in 2014 &#8211; is looming large. <strong>Sunday 26th October, 2-4pm</strong>! JOIN US.</p>
+<p>We are delighted to have two artists presenting their work: <a href="http://art-pete.com/" target="_blank">Pete Ashton</a> and <a href="http://www.thosesoundsbetween.co.uk/" target="_blank">Ben Gwilliam</a>.</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+<p>We will kick things off, demonstrating our latest work as <a href="http://www.mortonunderwood.co.uk/" target="_blank">MortonUnderwood</a>. We will be bringing along the units we will have exhibited at the <a href="http://www.longbridgelightfestival.co.uk/" target="_blank">Longbridge Light Festival</a> only the day before.</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/10/pete.jpg" alt="pete" width="614" height="497" /></p>
+<p>Then, it&#8217;s over to artist and If Wet regular Pete Ashton. Pete describes himself as more a photographer than a musician, but he is interested in whether the two disciplines are that different. In his own words, this is what he has planned for us at If Wet:<br />
+<em><br />
+Since attending the first If Wet I&#8217;ve been thinking a lot about transduction &#8211; moving a signal from one medium to another. I&#8217;ve also been investigating slit-scan processing and whether the act of photography can be a performance. Using a digital variation on the classic Russian ANS synth (used by Tarkovsky amongst others) I will be presenting the first iteration of what I hope to be a long-term project and invite comments, criticism and collaboration.</p>
+<p>To give you a better idea it&#8217;ll run like this:</p>
+<ul>
+<li>I take a photo of someone. This goes straight onto the computer and is turned from a rectangle into a flat disc</li>
+<li>I then print that disk out, cut it to a circle and place it on one of a number of turntables</li>
+<li>Next I point a camera at the spinning disk which reads the image and produces sounds which are sent through the mixer to the speakers</li>
+<li>This is repeated a number of times to see how changing the composition of the image can change the rhythms and sounds from the cameras</li>
+</ul>
+<p></em></p>
+<p>We look forward to seeing and hearing the results!</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/10/ben.jpg" alt="ben" width="614" height="344" /></p>
+<p>Then we have Ben Gwilliam, an artist whose work spans sound, film, installation &#038; performance.</p>
+<p>Ben will be presenting elements of two new pieces from a body of research into how the materiality and experience of sound media reframe/transduce time and/or space. He will be bringing the bare bones for a new installation (albeit scaled down for this occasion) &#038;  will preview a new video work that will be released on his new imprint molt in 2015.</p>
+<p>Ben&#8217;s practice is something of an in-between, binding together concepts and material experiences that are explored through sound media. Considering &#8216;sound media&#8217; in the plural sense,  the perception of sound itself is both physical and one that exists through recorded media.  Through Installations, films &#038; videos, performances and publishing he explores sound at the interaction of looking &#038; listening, analogue &#038; digital and music.</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/10/ben2.jpg" alt="ben2" width="614" height="461" /></p>
+<p>As ever, we also welcome short, informal presentations in our Run What Ya Brung section. Just bring any sonic oddity along and you can present it to the audience for their wonderment.</p>
+<p>All accompanied by the usual local ale, home-made grub and cake. JOIN US.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.ifwet.org.uk/category/news/" rel="category tag">News</a> and tagged <a href="http://www.ifwet.org.uk/tag/ben-gwilliam/" rel="tag">Ben Gwilliam</a>, <a href="http://www.ifwet.org.uk/tag/discussion/" rel="tag">discussion</a>, <a href="http://www.ifwet.org.uk/tag/if-wet/" rel="tag">if wet</a>, <a href="http://www.ifwet.org.uk/tag/instruments/" rel="tag">instruments</a>, <a href="http://www.ifwet.org.uk/tag/live/" rel="tag">live</a>, <a href="http://www.ifwet.org.uk/tag/mortonunderwood/" rel="tag">MortonUnderwood</a>, <a href="http://www.ifwet.org.uk/tag/pete-ashton/" rel="tag">Pete Ashton</a>, <a href="http://www.ifwet.org.uk/tag/preview/" rel="tag">Preview</a>, <a href="http://www.ifwet.org.uk/tag/rwyb/" rel="tag">rwyb</a>, <a href="http://www.ifwet.org.uk/tag/sound-art/" rel="tag">sound art</a> on <a href="http://www.ifwet.org.uk/news/if-wet-19-preview/" title="1:13 pm" rel="bookmark"><time class="entry-date" datetime="2014-10-16T13:13:32+00:00">October 16, 2014</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.ifwet.org.uk/author/mortonunderwood/" title="View all posts by MortonUnderwood" rel="author">MortonUnderwood</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1458" class="post-1458 post type-post status-publish format-standard hentry category-news tag-discussion tag-if-wet tag-inside-out-piano tag-instruments tag-live tag-mortonunderwood tag-preview tag-rwyb tag-sarah-kingdom-nicolls tag-sound-art">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.ifwet.org.uk/news/if-wet-18-preview/" title="Permalink to If Wet #18 &#8211; Preview" rel="bookmark">If Wet #18 &#8211; Preview</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.ifwet.org.uk/news/if-wet-18-preview/#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>If Wet #18 is but a few days away. <strong>Sunday 28th September, 2-4pm</strong>! JOIN US.</p>
+<p>We are delighted to have the wonderful Sarah Nicolls presenting. She will be taking us <em>Inside the Inside-Out Piano</em>.</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+<p>We will kick things off, demonstrating our latest work as <a href="http://www.mortonunderwood.co.uk/" target="_blank">MortonUnderwood</a>. This is likely to be an update on our work for the <a href="http://www.futurohouse.co.uk/index.html" target="_blank">Futuro House</a> project.</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/09/spiano.jpg" alt="Inside-Out Piano" width="614" height="1027" /></p>
+<p>Then it&#8217;s over to <a href="http://www.sarahnicolls.com/" target="_blank">Sarah Nicolls</a> to present her work.</p>
+<p>Sarah is a pianist who constantly innovates performance. She has worked a lot with interactive electronics and recently began to interrogate the piano itself. Sarah designed and built the first Inside-Out Piano in 2008 (at Wolstenholme Studios in Liverpool) to explore the idea of accessing the inside of the instrument as easily as the piano keyboard. She will talk about how this gave her a whole new interface to play with and made lovely sounds. Sarah had her second Inside-Out Piano built this year and is now preparing a solo theatre show, engaging with the more surprising aspects of the instrument, as well as the ease with which it allows &#8216;inside&#8217; piano playing. The piano is turning out to be quite metaphorical!</p>
+<p><em>Please note: Sarah won&#8217;t be bringing the Inside-Out Piano itself. Anyone who has been to If Wet before knows that we have a <strong>No PowerPoint</strong> rule, which is at least intended to set the tone for how we like to see stuff presented&#8230;but the Inside-Out Piano is <strong>too big</strong> for our budget. Sorry! BUT Sarah has promised she will try to bring it up to the hall next year as part of a tour she has planned.</em></p>
+<p>As ever, we welcome short, informal presentations in our Run What Ya Brung section. Just bring any sonic oddity along and you can present it to the audience for their wonderment.</p>
+<p>All accompanied by the usual local ale, home-made grub and cake. JOIN US.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.ifwet.org.uk/category/news/" rel="category tag">News</a> and tagged <a href="http://www.ifwet.org.uk/tag/discussion/" rel="tag">discussion</a>, <a href="http://www.ifwet.org.uk/tag/if-wet/" rel="tag">if wet</a>, <a href="http://www.ifwet.org.uk/tag/inside-out-piano/" rel="tag">Inside-Out Piano</a>, <a href="http://www.ifwet.org.uk/tag/instruments/" rel="tag">instruments</a>, <a href="http://www.ifwet.org.uk/tag/live/" rel="tag">live</a>, <a href="http://www.ifwet.org.uk/tag/mortonunderwood/" rel="tag">MortonUnderwood</a>, <a href="http://www.ifwet.org.uk/tag/preview/" rel="tag">Preview</a>, <a href="http://www.ifwet.org.uk/tag/rwyb/" rel="tag">rwyb</a>, <a href="http://www.ifwet.org.uk/tag/sarah-kingdom-nicolls/" rel="tag">Sarah Kingdom Nicolls</a>, <a href="http://www.ifwet.org.uk/tag/sound-art/" rel="tag">sound art</a> on <a href="http://www.ifwet.org.uk/news/if-wet-18-preview/" title="4:29 pm" rel="bookmark"><time class="entry-date" datetime="2014-09-24T16:29:58+00:00">September 24, 2014</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.ifwet.org.uk/author/mortonunderwood/" title="View all posts by MortonUnderwood" rel="author">MortonUnderwood</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-1453" class="post-1453 post type-post status-publish format-standard hentry category-news">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://www.ifwet.org.uk/news/new-poster-2014-season/" title="Permalink to New poster: 2014 Season" rel="bookmark">New poster: 2014 Season</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://www.ifwet.org.uk/news/new-poster-2014-season/#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Behold, our newly designed poster covering the remaining events of our 2014 season:</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2014/09/if_wet_poster_sm.jpg" alt="If Wet - 2014 Season" width="614" height="867" /></p>
+<p>Designed by <a href="http://www.hughcowling.co.uk/" target="_blank">Hugh Cowling</a>.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.ifwet.org.uk/category/news/" rel="category tag">News</a> on <a href="http://www.ifwet.org.uk/news/new-poster-2014-season/" title="9:36 am" rel="bookmark"><time class="entry-date" datetime="2014-09-23T09:36:03+00:00">September 23, 2014</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.ifwet.org.uk/author/mortonunderwood/" title="View all posts by MortonUnderwood" rel="author">MortonUnderwood</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+		<nav id="nav-below" class="navigation" role="navigation">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous alignleft"><a href="http://www.ifwet.org.uk/category/news/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			<div class="nav-next alignright"></div>
+		</nav><!-- #nav-below .navigation -->
+	
+		
+		</div><!-- #content -->
+	</section><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="text-7" class="widget widget_text">			<div class="textwidget"><a href="https://twitter.com/If_Wet/" target="_blank"><img src="http://www.ifwet.org.uk/images/t.gif"></a> <a href="https://www.facebook.com/pages/If-Wet/175235409296412" target="_blank"><img src="http://www.ifwet.org.uk/images/f.gif"></a></div>
+		</aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><p><strong style="font-size: 120%;">The If Wet Radio Show</strong><br />
+<strong style="font-size: 90%;">A six-part series featuring a different musical instrument or class of instrument each month - <a href="http://radio.ifwet.org.uk/" target="_blank">Info</a> | <a href="https://www.mixcloud.com/IfWet/" target="_blank">Mixcloud</a></strong></p>
+</div>
+		</aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Keep updated</h3>			<div class="textwidget"><link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup" style="margin-top: 8px;">
+<form action="http://mortonunderwood.us5.list-manage.com/subscribe/post?u=f3f52c3d89b5ec735169b87bf&amp;id=8ad92dc1a9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate style="padding: 0; margin: 0;">
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required style="width: 212px;">
+	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
+<em style="font-size: 80%; line-height: 10pt; display: block; margin-top: 10px;">This will only be used to as a means of informing you about this event.</em></div>
+		</aside><aside id="text-3" class="widget widget_text"><h3 class="widget-title">Contact Us</h3>			<div class="textwidget">If you are interested in this event, please <a href="mailto:hello@ifwet.org.uk?subject=If Wet..." >pop us an email</a>.
+<br><br>
+We want to hear from you if you have any suggestions, would like to be a sponsor, or would like to appear at <em>If Wet...</em> or anything else really.</div>
+		</aside><aside id="search-2" class="widget widget_search"><h3 class="widget-title">Search site</h3><form role="search" method="get" id="searchform" class="searchform" action="http://www.ifwet.org.uk/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<link rel='stylesheet' id='metaslider-responsive-slider-css'  href='http://www.ifwet.org.uk/wp-content/plugins/ml-slider/assets/sliders/responsiveslides/responsiveslides.css?ver=3.3.7' type='text/css' media='all' property='stylesheet' />
+<link rel='stylesheet' id='metaslider-public-css'  href='http://www.ifwet.org.uk/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.3.7' type='text/css' media='all' property='stylesheet' />
+<script type='text/javascript' src='http://www.ifwet.org.uk/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ifwet.org.uk/wp-includes/js/wp-embed.min.js?ver=4.7.12'></script>
+<script type='text/javascript' src='http://www.ifwet.org.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.ifwet.org.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.ifwet.org.uk/wp-content/plugins/ml-slider/assets/sliders/responsiveslides/responsiveslides.min.js?ver=3.3.7'></script>
+</body>
+</html>

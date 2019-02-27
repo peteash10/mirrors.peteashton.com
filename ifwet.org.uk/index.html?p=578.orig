@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>If Wet #3 &#8211; documentation | If Wet...</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.ifwet.org.uk/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.ifwet.org.uk/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="If Wet... &raquo; Feed" href="http://www.ifwet.org.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="If Wet... &raquo; Comments Feed" href="http://www.ifwet.org.uk/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="If Wet... &raquo; If Wet #3 &#8211; documentation Comments Feed" href="http://www.ifwet.org.uk/news/if-wet-3-documentation/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.ifwet.org.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.12"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.ifwet.org.uk/wp-content/themes/twentytwelve/style.css?ver=4.7.12' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.ifwet.org.uk/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='https://api.w.org/' href='http://www.ifwet.org.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ifwet.org.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ifwet.org.uk/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='If Wet &#8211; event poster #5' href='http://www.ifwet.org.uk/news/if-wet-event-poster-5/' />
+<link rel='next' title='If Wet #4 &#8211; documentation' href='http://www.ifwet.org.uk/news/if-wet-4-documentation/' />
+<meta name="generator" content="WordPress 4.7.12" />
+<link rel="canonical" href="http://www.ifwet.org.uk/news/if-wet-3-documentation/" />
+<link rel='shortlink' href='http://www.ifwet.org.uk/?p=578' />
+<link rel="alternate" type="application/json+oembed" href="http://www.ifwet.org.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.ifwet.org.uk%2Fnews%2Fif-wet-3-documentation%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.ifwet.org.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.ifwet.org.uk%2Fnews%2Fif-wet-3-documentation%2F&#038;format=xml" />
+	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute !important;
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	</head>
+
+<body class="post-template-default single single-post postid-578 single-format-standard custom-font-enabled single-author">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="http://www.ifwet.org.uk/" title="If Wet&#8230;" rel="home">If Wet&#8230;</a></h1>
+			<h2 class="site-description">in the village hall</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="menu-main-menu-custom-container"><ul id="menu-main-menu-custom" class="nav-menu"><li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-65"><a href="http://www.ifwet.org.uk/">Welcome</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://www.ifwet.org.uk/what/">What</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.ifwet.org.uk/when/">When</a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="http://www.ifwet.org.uk/who/">Who</a></li>
+<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-112"><a href="http://www.ifwet.org.uk/latest/">|            LATEST</a></li>
+<li id="menu-item-806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-806"><a href="http://www.ifwet.org.uk/category/documentation/">PAST EVENTS</a></li>
+<li id="menu-item-1623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1623"><a target="_blank" href="http://radio.ifwet.org.uk">|            RADIO</a></li>
+<li id="menu-item-1570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1570"><a href="http://www.ifwet.org.uk/contact/">|           CONTACT</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+
+					<a href="http://www.ifwet.org.uk/"><img src="http://www.ifwet.org.uk/wp-content/uploads/2016/10/header.gif" class="header-image" width="1211" height="412" alt="" /></a>
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-578" class="post-578 post type-post status-publish format-standard hentry category-documentation category-news tag-3d-printing tag-art tag-callow-end tag-callow-end-village-hall tag-caroline-radcliffe tag-clavichord tag-clogs tag-david-morton tag-discussion tag-documentation tag-edison-cylinder tag-flutes tag-foghorn-requiem tag-if-wet tag-mortonunderwood tag-music tag-optical-sequencers tag-paul-john tag-recorders tag-richard-windley tag-sam-underwood tag-sarah-angliss tag-saxophone tag-sonic-exploration tag-sound tag-sound-art tag-sound-in-z tag-synths tag-theremin tag-tim-cranmore tag-worcestershire">
+				<header class="entry-header">
+									<h1 class="entry-title">If Wet #3 &#8211; documentation</h1>
+										<div class="comments-link">
+					<a href="http://www.ifwet.org.uk/news/if-wet-3-documentation/#respond"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Our third event was something of a triumph; it was lively and well attended, and as ever our guests did us proud!</p>
+<p>Here is the full audio recording, in two parts: <a href="https://soundcloud.com/mortonunderwood/if-wet-number-3-part-1" target="_blank"><strong>Part1</strong></a> / <a href="https://soundcloud.com/mortonunderwood/if-wet-number-3-part-2" target="_blank"><strong>Part2</strong></a></p>
+<p>Here&#8217;s an overview of what went on, so you can access topics of interest:</p>
+<h1>Welcome</h1>
+<p><a href="http://www.flickr.com/photos/peteashton/9179152226/in/set-72157633358548063"><img src="http://farm4.staticflickr.com/3831/9179152226_7284fc0c80_z.jpg" alt="If Wet 3 - June - 41" width="640" height="424" /></a></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<p><em style="font-size: 150%;">&#8220;I am aware that some of you know this, as some of you have been to every single If Wet.&#8221;</em></p>
+<h1 style="margin-bottom: 0;">MortonUnderwood present&#8230;</h1>
+<p>[2:52 &#8211; 17:20 | Part 1]</p>
+<h2 style="margin-bottom: 0;">Foghorn Requiem recording</h2>
+<p>[6:36 &#8211; 09:31 | Part 1]<br />
+We played back a recording of the <a href="http://foghornrequiem.org/" target="_blank">Foghorn Requiem</a> David made when we travelled up to South Shields the weekend before If Wet #3. In many senses, this was the first of what could potentially become a series of If Wet sonic outings&#8230;</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2013/07/foghorn1.jpg" alt="Foghorn Requiem" width="625" height="417" /></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 500px; margin-bottom: 30px;">Photo: Sam Underwood</div>
+<p><em style="font-size: 150%;">&#8220;This is the finale. There is a mournful chorale at the end from the brass bands and then it goes to the foghorn part and they discharge the full extent of the air chambers through the foghorn, so you hear how the sound meanders and peters out.&#8221;</em></p>
+<p><em style="font-size: 150%;">&#8220;They explained that normally they wouldn&#8217;t run the foghorn like that but [&#8230;] because it was the last time it was ever going to be sounded properly they ran the cylinders right until everything was completely depleted and run out, which is why it sounds particularly mournful.&#8221;</em></p>
+<h2 style="margin-bottom: 0;">3D mouthpieces</h2>
+<p>[9:36 &#8211; 17:20 | Part 1]<br />
+Next up, we provided a brief update on our work building 3D mouthpieces. David described and demonstrated a working saxophone mouthpiece.</p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2013/07/mouthpieces.jpg" alt="3D mouthpieces" width="625" height="425" /></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 516px; margin-bottom: 30px;">Photos: Pete Ashton</div>
+<p><em style="font-size: 150%;">&#8220;The software has been upgraded now so the rafts are much easier to come off in one piece.&#8221;</em></p>
+<p><em style="font-size: 150%;">&#8220;I now need to re-learn some of the fundamentals so I am getting to the stage where I am building models myself.&#8221;</em><br />
+<span style="font-size: 90%;">[Sam reflecting on what&#8217;s next in terms of our exploration of 3D printing]</span></p>
+<h1 style="margin-bottom: 0;">Paul John presents the clavichord</h1>
+<p>[17:25 &#8211; 44:00 | Part 1]<br />
+Paul John discusses the history of clavichords, which featured him playing in-the-round.</p>
+<p><a href="http://www.flickr.com/photos/peteashton/9179117972/in/set-72157633358548063/"><img src="http://farm6.staticflickr.com/5521/9179117972_26c56b65c1_z.jpg" alt="If Wet 3 - June - 06" width="640" height="424" /></a></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<p><em style="font-size: 150%;">&#8220;It&#8217;s closer to the piano in its expressiveness than it is to the harpsichord.&#8221;</em></p>
+<p><em style="font-size: 150%;">&#8220;In the 18th century it was often used in stacks, in pairs, [&#8230;] so that an organist could practice at home.&#8221;</em></p>
+<p><a href="http://www.flickr.com/photos/peteashton/9179173918/in/set-72157633358548063/"><img src="http://farm8.staticflickr.com/7283/9179173918_3711e63a08_z.jpg" alt="If Wet 3 - June - 10" width="640" height="424" /></a></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<p><em style="font-size: 150%;">&#8220;It came out of, probably, ancient Greek methods of teaching mathematics, the acoustics of music from a single stretched string between two points and finding that if you put pressure on the string here and there that you get the fundamental and the octave.&#8221;</em></p>
+<p><a href="http://www.flickr.com/photos/peteashton/9176950973/in/set-72157633358548063/"><img src="http://farm4.staticflickr.com/3734/9176950973_be7a88ac75_z.jpg" alt="If Wet 3 - June - 08" width="640" height="424" /></a></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<p>The courtesy and attentiveness of an If Wet audience is always high (they have to put up with us blathering on after all) but in this section it was particularly tangible. The volume of the clavichord is such that it rewards close listening. It was a delight to behold how enchanted everyone looked when Paul was playing.</p>
+<p>Next up, Sarah Angliss.</p>
+<h1 style="margin-bottom: 0;">Sarah Angliss</h1>
+<p>[1:07 &#8211; 52:31 | Part 2]</p>
+<p><a href="http://www.flickr.com/photos/peteashton/9176914445/in/set-72157633358548063"><img src="http://farm4.staticflickr.com/3778/9176914445_37130489d0_z.jpg" alt="If Wet 3 - June - 19" width="640" height="424" /></a></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<p><em style="font-size: 150%;">&#8220;That&#8217;s the act. I genuinely don&#8217;t know quite what it is; it sort of lives somewhere between cabaret and experimental electronics.</em></p>
+<p><em style="font-size: 150%;">&#8220;You actually imbue notes with life by sort of expressing yourself as you play the note. And on the recorder you have a very good parallel with what is going on with the clavichord.</em></p>
+<p><em style="font-size: 150%;">&#8220;There is a roboticist, Rodney Brooks who said &#8220;The real world is its own best model&#8221;. [&#8230;] You might spend a vast amount of money on bell samples but in the end the best bell sample is a bell, situated in a room, vibrating away as only bells can do. [&#8230;] We are actually quite hungry for physical, situated sound. That&#8217;s something I am very, very into.</em></p>
+<p>As a keen saw player, Sarah moves on to discuss and demonstrate the saw as a musical instrument. </p>
+<p><img src="http://www.ifwet.org.uk/wp-content/uploads/2013/07/saw.jpg" alt="Saw playing" width="625" height="425" /></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<p><em style="font-size: 150%;">&#8220;It was like the skiffle instrument of its time. It was what you did if you couldn&#8217;t afford a violin.&#8221;</em><br />
+<span style="font-size: 90%;">[Sarah talking about saws as a musical instrument]</span></p>
+<p><a href="http://www.flickr.com/photos/peteashton/9176977499/in/set-72157633358548063"><img src="http://farm8.staticflickr.com/7395/9176977499_dbdd608c64_z.jpg" alt="If Wet 3 - June - 24" width="640" height="424" /></a></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<p>The discussion moved on to focus on performance and Sarah&#8217;s thoughts on this.</p>
+<p><em style="font-size: 150%;">&#8220;Coupling; which is the idea that when I see a performance I want to see what the performer is doing, coupled in some obvious way to what we are hearing. Otherwise I will switch off.&#8221;</em></p>
+<p><em style="font-size: 150%;">&#8220;Why are we all here sharing this sound rather than just simply listening to it at home?&#8221;</em></p>
+<p><em style="font-size: 150%;">&#8220;You&#8217;ll notice at the beginning that I tuned up in front of you. I didn&#8217;t actually need to tune up in front of you. I do that before I start a show so that people realise I am controlling the sound, and I am not reacting to the sound.&#8221;</em><br />
+<span style="font-size: 90%;">[Sarah talking about helping the audience to appreciate the cause and effect when she plays Theremin]</span></p>
+<p><em style="font-size: 150%;">&#8220;People credit him with a lot more intelligence than he actually has. [&#8230;] I am actually using old magician&#8217;s tricks, lots of misdirections.&#8221;</em><br />
+<span style="font-size: 90%;">[Talking about her robot, Hugo]</span></p>
+<p>Sarah moves on to discuss and demonstrate her phonograph.</p>
+<p><a href="http://www.flickr.com/photos/peteashton/9179223896/in/set-72157633358548063"><img src="http://farm6.staticflickr.com/5524/9179223896_f66883657d_z.jpg" alt="If Wet 3 - June - 29" width="640" height="424" /></a></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<p><em style="font-size: 150%;">&#8220;This is entirely clockwork sound, there is no electronic amplification whatsoever.&#8221;</em><br />
+<span style="font-size: 90%;">[Demonstrating a recording.]</span></p>
+<p><em style="font-size: 150%;">&#8220;It has not escaped out notice that the voices of the dead can be reheard.&#8221;</em><br />
+<span style="font-size: 90%;">[Quoting Scientific American response to the phonograph when originally demonstrated.]</span></p>
+<p>Members of the If Wet audience were then given the opportunity to make a recording on the phonograph. A short piece was recorded featuring the voices of Tim Cranmore (Worcestershire Poet Laureate), Sarah Angliss and David Morton on saxophone.</p>
+<p><em style="font-size: 150%;">&#8220;You would have to remove that stylus and replace it with a heavier one. And then you spoke into the horn, the horn would vibrate the stylus and it was heavy enough to cut the groove in the wax.&#8221;</em><br />
+<span style="font-size: 90%;">[On how to record using a phonograph]</span></p>
+<p><em style="font-size: 150%;">&#8220;It&#8217;s an artefact of the recording process. How you have to perform and the way it gets filtered. So, it makes you start to realise that this idea of how old voices sound is often the recording process rather than the people.&#8221;</em><br />
+<span style="font-size: 90%;">[On how to record using a phonograph]</span></p>
+<p><a href="http://www.flickr.com/photos/peteashton/9177009093/in/set-72157633358548063/"><img src="http://farm8.staticflickr.com/7452/9177009093_d17cef2425_z.jpg" alt="If Wet 3 - June - 30" width="640" height="424" /></a></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<h1 style="margin-bottom: 0;">Run What Ya Brung</h1>
+<p>[41:32 &#8211; 57:00 | Part 2]<br />
+We run a regular feature at If Wet in which members of the audience are invited to bring along and demonstrate instruments, sound objects and sonic oddities. Sometimes we get lots of contributions, sometimes just one (so far never nought). This month was stellar, with fabulous contributions from Caroline Radcliffe, Richard Windley and Tim Cranmore.</p>
+<h1 style="margin-bottom: 0; font-size: 130%;">Caroline Radcliffe</h1>
+<p>[54:00 &#8211; 1:03:58 | Part 2 | pre-amble by Sarah Angliss]<br />
+Caroline Radcliffe demonstrated some clog dancing and spoke about how many of the moves, from the 18th century, imitated the machinery in the cotton mills.</p>
+<p><em style="font-size: 150%;">&#8220;I get really fed up with all these techno people claiming that they&#8217;ve only just invented something. What I want to show is that repetitive labour and sound was connected way before Detroit techno and all sorts of other processes.&#8221;</em></p>
+<p><a href="http://www.flickr.com/photos/peteashton/9179239586/in/set-72157633358548063"><img src="http://farm4.staticflickr.com/3817/9179239586_c525105e22_z.jpg" alt="If Wet 3 - June - 34" width="640" height="424" /></a></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<p><a href="http://www.birmingham.ac.uk/staff/profiles/drama/radcliffe-caroline.aspx" target="_blank">Caroline Radcliffe</a></p>
+<h1 style="margin-bottom: 0; font-size: 130%;">Richard Windley</h1>
+<p>[01:05:46 &#8211; 01:10:24 | Part 2]<br />
+We can&#8217;t get enough of Richard at If Wet and he was back with a bizarre self-made synth on a multi-layered stand.</p>
+<p><a href="http://www.flickr.com/photos/peteashton/9179244864/in/set-72157633358548063"><img src="http://farm3.staticflickr.com/2811/9179244864_547964eab7_z.jpg" alt="If Wet 3 - June - 35" width="640" height="424" /></a></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<p><em style="font-size: 150%;">&#8220;The band broke up after about four days.&#8221;</em></p>
+<p><a href="http://www.richardwindley.co.uk/" target="_blank">richardwindley.co.uk</a></p>
+<h1 style="margin-bottom: 0; font-size: 130%;">Tim Cranmore</h1>
+<p>[01:10:50 &#8211; 01:20:54 | Part 2]<br />
+Tim is a local recorder maker and maker/player in the UK Vegetable Orchestra. This was his second contribution to If Wet, where he covered three-holed pipes, including two rare bass pipes.</p>
+<p><a href="http://www.flickr.com/photos/peteashton/9179252828/in/set-72157633358548063/"><img src="http://farm8.staticflickr.com/7407/9179252828_02f834a219_z.jpg" alt="If Wet 3 - June - 38" width="640" height="424" /></a></p>
+<div style="font-size: 70%; margin-top: -26px; margin-left: 520px; margin-bottom: 30px;">Photo: Pete Ashton</div>
+<p><em style="font-size: 150%;">&#8220;In the Mary Rose they found several musical instruments. [&#8230;] The bass three-holed pipe they found was the only one that had ever been seen, and this is a copy of a bass three-holed pipe that was found in the Mary Rose.&#8221;</em></p>
+<p><a href="http://www.fippleflute.co.uk/" target="_blank">fippleflute.co.uk</a></p>
+<p>Once again, the event ended with a lot of people sticking around to chat. One of the core aims of If Wet it to build links locally. We are confident there are people who share our interests out there and we&#8217;d like to hook up with them to form some sort of creative community. Another successful If Wet, see you at the next one!</p>
+<p>________________________________________</p>
+<p>The full set of Pete&#8217;s photographs of If Wet are available <a href="http://www.flickr.com/photos/peteashton/sets/72157633358548063/detail/" target="_blank">here</a>.<br />
+&nbsp;</p>
+<div style="font-size: 90%;">A huge thank you to:<br />
+<strong>Everyone who presented! </strong>Everyone who engaged and provided feedback. Everyone who came. Kavita and Gill for running the bar and tidying up. Pete Ashton for taking photographs.</div>
+<p>&nbsp;</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.ifwet.org.uk/category/documentation/" rel="category tag">documentation</a>, <a href="http://www.ifwet.org.uk/category/news/" rel="category tag">News</a> and tagged <a href="http://www.ifwet.org.uk/tag/3d-printing/" rel="tag">3D printing</a>, <a href="http://www.ifwet.org.uk/tag/art/" rel="tag">art</a>, <a href="http://www.ifwet.org.uk/tag/callow-end/" rel="tag">callow end</a>, <a href="http://www.ifwet.org.uk/tag/callow-end-village-hall/" rel="tag">Callow End Village Hall</a>, <a href="http://www.ifwet.org.uk/tag/caroline-radcliffe/" rel="tag">Caroline Radcliffe</a>, <a href="http://www.ifwet.org.uk/tag/clavichord/" rel="tag">clavichord</a>, <a href="http://www.ifwet.org.uk/tag/clogs/" rel="tag">clogs</a>, <a href="http://www.ifwet.org.uk/tag/david-morton/" rel="tag">david morton</a>, <a href="http://www.ifwet.org.uk/tag/discussion/" rel="tag">discussion</a>, <a href="http://www.ifwet.org.uk/tag/documentation/" rel="tag">documentation</a>, <a href="http://www.ifwet.org.uk/tag/edison-cylinder/" rel="tag">Edison cylinder</a>, <a href="http://www.ifwet.org.uk/tag/flutes/" rel="tag">flutes</a>, <a href="http://www.ifwet.org.uk/tag/foghorn-requiem/" rel="tag">Foghorn Requiem</a>, <a href="http://www.ifwet.org.uk/tag/if-wet/" rel="tag">if wet</a>, <a href="http://www.ifwet.org.uk/tag/mortonunderwood/" rel="tag">MortonUnderwood</a>, <a href="http://www.ifwet.org.uk/tag/music/" rel="tag">music</a>, <a href="http://www.ifwet.org.uk/tag/optical-sequencers/" rel="tag">optical sequencers</a>, <a href="http://www.ifwet.org.uk/tag/paul-john/" rel="tag">Paul John</a>, <a href="http://www.ifwet.org.uk/tag/recorders/" rel="tag">recorders</a>, <a href="http://www.ifwet.org.uk/tag/richard-windley/" rel="tag">richard windley</a>, <a href="http://www.ifwet.org.uk/tag/sam-underwood/" rel="tag">sam underwood</a>, <a href="http://www.ifwet.org.uk/tag/sarah-angliss/" rel="tag">Sarah Angliss</a>, <a href="http://www.ifwet.org.uk/tag/saxophone/" rel="tag">saxophone</a>, <a href="http://www.ifwet.org.uk/tag/sonic-exploration/" rel="tag">sonic exploration</a>, <a href="http://www.ifwet.org.uk/tag/sound/" rel="tag">sound</a>, <a href="http://www.ifwet.org.uk/tag/sound-art/" rel="tag">sound art</a>, <a href="http://www.ifwet.org.uk/tag/sound-in-z/" rel="tag">sound in z</a>, <a href="http://www.ifwet.org.uk/tag/synths/" rel="tag">synths</a>, <a href="http://www.ifwet.org.uk/tag/theremin/" rel="tag">Theremin</a>, <a href="http://www.ifwet.org.uk/tag/tim-cranmore/" rel="tag">tim cranmore</a>, <a href="http://www.ifwet.org.uk/tag/worcestershire/" rel="tag">worcestershire</a> on <a href="http://www.ifwet.org.uk/news/if-wet-3-documentation/" title="9:03 am" rel="bookmark"><time class="entry-date" datetime="2013-08-08T09:03:44+00:00">August 8, 2013</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.ifwet.org.uk/author/mortonunderwood/" title="View all posts by MortonUnderwood" rel="author">MortonUnderwood</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Post navigation</h3>
+					<span class="nav-previous"><a href="http://www.ifwet.org.uk/news/if-wet-event-poster-5/" rel="prev"><span class="meta-nav">&larr;</span> If Wet &#8211; event poster #5</a></span>
+					<span class="nav-next"><a href="http://www.ifwet.org.uk/news/if-wet-4-documentation/" rel="next">If Wet #4 &#8211; documentation <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/news/if-wet-3-documentation/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://www.ifwet.org.uk/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='578' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="6e05780fea" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="236"/></p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="text-7" class="widget widget_text">			<div class="textwidget"><a href="https://twitter.com/If_Wet/" target="_blank"><img src="http://www.ifwet.org.uk/images/t.gif"></a> <a href="https://www.facebook.com/pages/If-Wet/175235409296412" target="_blank"><img src="http://www.ifwet.org.uk/images/f.gif"></a></div>
+		</aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><p><strong style="font-size: 120%;">The If Wet Radio Show</strong><br />
+<strong style="font-size: 90%;">A six-part series featuring a different musical instrument or class of instrument each month - <a href="http://radio.ifwet.org.uk/" target="_blank">Info</a> | <a href="https://www.mixcloud.com/IfWet/" target="_blank">Mixcloud</a></strong></p>
+</div>
+		</aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Keep updated</h3>			<div class="textwidget"><link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup" style="margin-top: 8px;">
+<form action="http://mortonunderwood.us5.list-manage.com/subscribe/post?u=f3f52c3d89b5ec735169b87bf&amp;id=8ad92dc1a9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate style="padding: 0; margin: 0;">
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required style="width: 212px;">
+	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
+<em style="font-size: 80%; line-height: 10pt; display: block; margin-top: 10px;">This will only be used to as a means of informing you about this event.</em></div>
+		</aside><aside id="text-3" class="widget widget_text"><h3 class="widget-title">Contact Us</h3>			<div class="textwidget">If you are interested in this event, please <a href="mailto:hello@ifwet.org.uk?subject=If Wet..." >pop us an email</a>.
+<br><br>
+We want to hear from you if you have any suggestions, would like to be a sponsor, or would like to appear at <em>If Wet...</em> or anything else really.</div>
+		</aside><aside id="search-2" class="widget widget_search"><h3 class="widget-title">Search site</h3><form role="search" method="get" id="searchform" class="searchform" action="http://www.ifwet.org.uk/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.ifwet.org.uk/wp-content/plugins/akismet/_inc/form.js?ver=3.0.2'></script>
+<script type='text/javascript' src='http://www.ifwet.org.uk/wp-includes/js/comment-reply.min.js?ver=4.7.12'></script>
+<script type='text/javascript' src='http://www.ifwet.org.uk/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ifwet.org.uk/wp-includes/js/wp-embed.min.js?ver=4.7.12'></script>
+</body>
+</html>
